@@ -1,3 +1,1 @@
-<<<<<<< HEAD
-This is again master branch
-=======
+Hello everyone this is master branch
